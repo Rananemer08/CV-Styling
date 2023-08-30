@@ -245,7 +245,9 @@ header hgroup{
   width: 50%;
 
 }
-
+#contact h3{
+  display: none;
+}
 .contact-value{
   background-color: black;
   display: block;
